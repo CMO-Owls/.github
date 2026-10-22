@@ -10,6 +10,10 @@ Here we publish the free tools behind [cmoowls.com/tools](https://www.cmoowls.co
 |---|---|
 | [free-seo-tools](https://github.com/CMO-Owls/free-seo-tools) | 23 free SEO and AI-visibility tools: a Python package and CLI (`cmoowls-seo`) for robots.txt and AI crawler access, llms.txt, sitemaps, indexability, redirects, schema, broken links, meta tags, Open Graph, images, mobile and security headers, plus 5 browser tools on [GitHub Pages](https://cmo-owls.github.io/free-seo-tools/) |
 | [llms-txt-validator](https://github.com/CMO-Owls/llms-txt-validator) | Validate llms.txt files against the llmstxt.org format, locally, on live sites or as a GitHub Action that fails the build on errors |
+| [ai-crawler-access-test](https://github.com/CMO-Owls/ai-crawler-access-test) | See which search and AI crawlers (GPTBot, ClaudeBot, PerplexityBot, OAI-SearchBot…) your firewall or CDN turns away, with a daily GitHub Action monitor |
+| [xml-sitemap-generator](https://github.com/CMO-Owls/xml-sitemap-generator) | Crawl a site into a clean sitemap.xml, or compare a crawl with your current sitemap to find missing and stale pages |
+| [keyword-density-checker](https://github.com/CMO-Owls/keyword-density-checker) | Keyword density for live pages and drafts (Markdown, HTML, text), plus a two-page phrase comparison |
+| [image-compressor](https://github.com/CMO-Owls/image-compressor) | Resize, compress and convert images to WebP in your browser; one HTML file, nothing uploaded ([use it](https://cmo-owls.github.io/image-compressor/)) |
 
 ## Try the tools without installing anything
 
